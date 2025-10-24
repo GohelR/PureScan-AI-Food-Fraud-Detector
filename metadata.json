@@ -1,0 +1,5 @@
+{
+  "name": "PureScan: AI Food Fraud Detector",
+  "description": "An AI-powered web platform that detects food fraud and adulteration using Explainable Artificial Intelligence (XAI). Users can upload food data, and the system provides a classification (Safe/Fraudulent) with a transparent explanation of the key contributing factors through intuitive visualizations.",
+  "requestFramePermissions": []
+}
